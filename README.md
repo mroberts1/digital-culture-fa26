@@ -1,11 +1,11 @@
 ## digital-culture-fa26
 
-Course site for digital media & culture, built with Quartz 5 and themed to match
+Course site for Emerson College course VM303-01 Studies in Digital Media & Culture, Fall semester 2026, built with Quartz 5 and themed to match
 the [Plastic Labs blog](https://plasticlabs.ai/blog/). Copied from
 `~/Obsidian/digital-culture-fa25`, which was scaffolded from
 `~/Obsidian/quartz-template`, where the theme is documented.
 
-Content still carries the Fall 2025 syllabus, dates and readings. Update
+Content currently still carries the Fall 2025 syllabus, dates and readings. Update
 `content/index.md` before publishing.
 
 ```

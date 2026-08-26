@@ -10,10 +10,10 @@
     "videoContainer",
     "banner-image"
   ],
-  "interfaceFontFamily": "iA Writer Quattro V",
-  "textFontFamily": "iA Writer Quattro V",
+  "interfaceFontFamily": "Departure Mono",
+  "textFontFamily": "Departure Mono",
   "nativeMenus": false,
-  "monospaceFontFamily": "Geist Mono",
+  "monospaceFontFamily": "Departure Mono",
   "baseFontSizeAction": true,
   "showRibbon": true
 }

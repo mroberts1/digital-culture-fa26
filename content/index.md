@@ -20,10 +20,10 @@ Current price: $62.18 (100.00 ꜩ) </small>
 > [!custom]+ VM303-01\
 > [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
 > [Emerson College](https://emerson.edu/)\
-> Fall Semester 2025\
-> Tues/Thur 4 Sept-12 Dec 2025\
+> Fall Semester 2026\
+> Tues/Thur 3 Sept-10 Dec 2026\
 > 18:00-19:45\
-> Ansin Building 604\
+> Ansin Building 605\
 > [Dr. Martin Roberts](http://mroberts1.github.io/)\
 > Office: TBA\
 > Hours: Tues/Thur 14:30-3:30\
