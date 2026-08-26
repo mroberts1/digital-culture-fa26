@@ -15,8 +15,8 @@ digital-culture-fa26/
   public/      build output, gitignored
 ```
 
-`./dev.sh` serves at http://localhost:8080, `./build.sh` writes `public/`. Both work
-from any directory. If a port is taken: `PORT=8081 WS_PORT=3004 ./dev.sh`.
+`./dev.sh` serves at http://localhost:8086, `./build.sh` writes `public/`. Both work
+from any directory. If a port is taken: `PORT=8087 WS_PORT=3007 ./dev.sh`.
 
 ## Content
 

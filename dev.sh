@@ -1,12 +1,12 @@
 #!/bin/bash
 # Serve the vault locally with hot reload.
-# Override ports with e.g. PORT=8081 WS_PORT=3004 ./dev.sh
+# Override ports with e.g. PORT=8087 WS_PORT=3007 ./dev.sh
 set -e
 
-PORT="${PORT:-8080}"
-# Not 3001: a bun process commonly holds that port, and a collision kills the
-# server instead of just disabling hot reload.
-WS_PORT="${WS_PORT:-3003}"
+# Ports are per-vault so several course sites can serve at once. Taken on this
+# machine: 8080 open-webui, 8081 mlx_lm.server, 8088/3003 the orifice vault.
+PORT="${PORT:-8086}"
+WS_PORT="${WS_PORT:-3006}"
 
 VAULT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
