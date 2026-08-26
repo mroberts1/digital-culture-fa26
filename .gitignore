@@ -10,9 +10,11 @@ public/
 # so a pattern of .quartz/.quartz-cache/ does not match it.
 .quartz/quartz/.quartz-cache/
 
-# Course readings: scanned book chapters, deliberately not published.
-# Every [pdf] link on the built site will 404 as a result.
-content/pdf/
+# Course readings (content/pdf) are ignored via .git/info/exclude, not here.
+# Quartz globs content with gitignore: true, so a rule in this file would hide
+# the PDFs from the local preview too. Keeping the rule out of tree means they
+# build locally and still never reach the repo, so [pdf] links 404 only on the
+# published site.
 
 # Obsidian: keep settings, skip the 69M of installed plugins and local state
 .obsidian/plugins/
