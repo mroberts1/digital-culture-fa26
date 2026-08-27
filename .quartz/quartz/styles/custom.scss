@@ -81,17 +81,6 @@ pre {
   --callout-icon: var(--callout-icon-tip);
 }
 
-// The right sidebar is a 100vh flex column with no scrolling, so a second
-// block above the table of contents squeezes it out of view. Let the column
-// scroll, and keep the course details at their natural height.
-.sidebar.right {
-  overflow-y: auto;
-
-  > .course-info {
-    flex: 0 0 auto;
-  }
-}
-
 // Course details in the right sidebar, reusing the [!custom] callout's mint
 // border and tinted ground so it reads as the same element it replaced.
 .course-info {
