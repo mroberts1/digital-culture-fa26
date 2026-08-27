@@ -81,37 +81,6 @@ pre {
   --callout-icon: var(--callout-icon-tip);
 }
 
-// Course details in the right sidebar, reusing the [!custom] callout's mint
-// border and tinted ground so it reads as the same element it replaced.
-.course-info {
-  border: 1px solid var(--tertiary);
-  border-left-width: 3px;
-  border-radius: 5px;
-  background-color: var(--customCallout);
-  padding: 0.8rem 1rem;
-  font-size: 0.85rem;
-  line-height: 1.4;
-
-  h3 {
-    margin: 0 0 0.6rem;
-    font-size: 1rem;
-  }
-
-  p {
-    margin: 0 0 0.6rem;
-  }
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  .course-info-icons {
-    display: flex;
-    gap: 0.7rem;
-    align-items: center;
-  }
-}
-
 // Folder/tag listings render as a card grid instead of a plain list.
 .page-listing {
   ul.section-ul {
