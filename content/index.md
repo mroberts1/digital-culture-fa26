@@ -66,15 +66,25 @@ E: Ebook
 
 ## Assignments & Evaluation
 
+**Commentary** (weekly discussion posts) (20%)
 
+One or more discussion posts per week on reading assignments, submitted anytime during the week of the assignments in question. A minimum of ten weekly posts is required.
 
-**Platform Cultures** (20%)  
+**Keywords** (20%) 
 
-**Generative Art** (20%)    
-Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.)
+250-500-word contribution to Glossary of Key Terms in contemporary digital media culture. Due mid-semester.
 
-**Open Education Resources (OER)/OpenCode Research Assignment* (25%)  
-Further details will be provided. 1,250-1,500 words.
+**Generative Art** (20%)   
+
+Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.). Due week after Thanksgiving
+
+**Open Education Resources (OER)/OpenCode Research Assignment** (25%)  
+
+Further details will be provided. 1,250-1,500 words. Due last week of classes.
+
+**Engagement** (15%)
+
+Includes attendance, punctuality
 
 ## Schedule of Classes
 
