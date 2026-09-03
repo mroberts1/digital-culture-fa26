@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "wiki/concepts",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }

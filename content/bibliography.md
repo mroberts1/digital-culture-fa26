@@ -1,133 +1,73 @@
 ---
-title: "Bibliography"
+title: Bibliography
 ---
-## Required Texts
 
-Aleksic, Adam. 2025. *Algospeak: How Social Media Is Transforming the Future of Language*. New York: Alfred A. Knopf.
+\* = Audiobook
 
-Fisher, Mark. *Capitalist Realism: Is There No Alternative?* Winchester, UK: Zero Books, 2009.
+[Crystal Abidin](https://wishcrys.com), *TikTok and Youth Cultures*. SocietyNow series. Leeds, UK: Emerald Publishing, 2025.
 
-Richardson, Allissa V. *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism*. Oxford: Oxford University Press, 2020.
+*Adam Aleksic, [*Algospeak: How Social Media Is Transforming the Future of Language*](https://www.penguinrandomhouse.com/books/776856/algospeak-by-adam-aleksic/). New York: Alfred A. Knopf.
 
-## Week 1: Sites of Struggle
+danah boyd, *It's Complicated: The Social Lives of Networked Teens* (New Haven: Yale University Press, 2014).
 
-Eco, Umberto. "Towards a Semiological Guerrilla Warfare." In *Travels in Hyperreality: Essays*, translated by William Weaver, 135-144. San Diego: Harcourt Brace Jovanovich, 1986.
+Amy Bruckman, *Should You Believe Wikipedia? Online Communities and the Construction of Knowledge* (Cambridge: Cambridge University Press, 2022).
 
-Welch, David. "The Conquest of the Masses." In *The Third Reich: Politics and Propaganda*, 2nd ed., 10-37. London and New York: Routledge, 1993.
+Finn Brunton and Helen Nissenbaum, *Obfuscation: A User's Guide for Privacy and Protest* (Cambridge: MIT Press, 2016).
 
-## Week 2: Ideology and the Orwellian
+Kyle Chayka, *Filterworld: How Algorithms Flattened Culture* (New York: Doubleday, 2024).
 
-Althusser, Louis. "Ideology and Ideological State Apparatuses (Notes towards an Investigation)." In *Lenin and Philosophy and Other Essays*, translated by Ben Brewster, 127-186. New York: Monthly Review Press, 1971.
+Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz and Peggy Weil, *Inventing ELIZA: How The First Chatbot Shaped the Future of AI*. Foreword by Janet Murray. Cambridge, MA: MIT Press, 2026.
 
-Fisher, Mark. "It's Easier to Imagine the End of the World Than the End of Capitalism." In *Capitalist Realism: Is There No Alternative?*, 1-11. Winchester, UK: Zero Books, 2009.
+Gabriella Coleman, *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous* (London and New York: Verso, 2014).
 
-Fisher, Mark. "Lecture 1: What Is Postcapitalist Desire?" In *Postcapitalist Desire: The Final Lectures*, edited by Matt Colquhoun, 21-48. London: Repeater Books, 2021.
+[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), [*Content*](https://mitpress.mit.edu/9780262543286/content/). Essential Knowledge Series (Cambridge, MA: MIT Press, 2022).
 
-### Viewing
-*Squid Game*. Directed by Hwang Dong-hyuk. Netflix, 2021. Television series, 9 episodes.
+Adrian Hon, *You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All* (New York: Basic Books, 2022).
 
-## Week 3: Simulation and Pastiche
+*[Freya India](jhttps://www.freyaindia.co.uk/), *GIRLS®: Generation Z and the Commodification of Everything*. New York: MacMillan Books, 2026.
 
-Friedlander, Emilie. "Social Anxiety: Why Amalia Ulman's Fake 'Middlebrow' Instagram Is No Different From Yours." *The Fader*, November 7, 2014. https://www.thefader.com/2014/11/07/social-anxiety-why-amalia-ulmans-middlebrow-instagram-feed-is-no-different-from-yours.
+*Kazuo Ishiguro, [*Klara and the Sun: A Novel*](https://www.penguinrandomhouse.com/books/653825/klara-and-the-sun-a-gma-book-club-pick-by-kazuo-ishiguro). New York: Penguin Random House, 2022.
 
-Sooke, Alastair. "Is This The First Instagram Masterpiece?" *The Telegraph*, January 18, 2016. https://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/.
+Sarah J. Jackson, Moya Bailey, et al., *#Hashtag Activism: Networks of Race and Gender Justice* (Cambridge: MIT Press, 2020).
 
-Dazed Digital. "Amalia Ulman: Meme Come True." *Dazed Digital*, 2016. https://www.dazeddigital.com/artsandculture/article/23700/1/amalia-ulman-meme-come-true.
+John Jordan, *Robots*. Cambridge, MA: MIT Press. Essential Knowledge series.
 
-Ulman, Amalia. *Excellences & Perfections*. Instagram performance, 2014. Documentation at http://amaliaulman.eu/.
+Bogna Konior, *The Dark Forest Theory of the Internet*. Cambridge: Polity Press, 2026.
 
-### Viewing
-*El Planeta*. Directed by Amalia Ulman. Holga's Meow Pictures, 2020. Film, 79 minutes.
+[Christine Lagorio-Chafkin](https://x.com/lagorio), *We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory* (New York: Hachette Books, 2018).
 
-*Inventing Anna*. Directed by Shonda Rhimes. Netflix, 2022. Television miniseries, Episode 6: Friends in Low Places.
+Taylor Lorenz, *Extremely Online: How the Internet Changed the Way We Live, Love, Work, and Play* (New York: Simon & Schuster, 2022}.
 
-## Week 4: Feminism/Postfeminism
+[Lev Manovich](https://manovich.net/) and Emanuele Arielli, [*Artificial Aesthetics: Generative AI, Art and Visual Media*](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-24.
 
-Negra, Diane, and Yvonne Tasker. "Introduction: Feminist Politics and Postfeminist Culture." In *Interrogating Postfeminism: Gender and the Politics of Popular Culture*, edited by Diane Negra and Yvonne Tasker, 1-25. Durham, NC: Duke University Press, 2007.
+Gary Marcus & Ernest Davis, *Rebooting AI: Building Artificial Intelligence We Can Trust* (New York: Pantheon Books, 2019).
 
-Roberts, Martin. "The Fashion Police: Governing the Self in *What Not To Wear*." In *Interrogating Postfeminism: Gender and the Politics of Popular Culture*, edited by Diane Negra and Yvonne Tasker, 227-248. Durham, NC: Duke University Press, 2007.
+Stefania Maurizi, *Secret Power: Wikileaks and Its Enemies*. Pluto Press, 2023.
 
-## Week 5: Witnessing
+[Gretchen McCulloch](https://gretchenmcculloch.com/), [*Because Internet: Understanding the New Rules of Language*](https://gretchenmcculloch.com/book/) (Riverhead Books, 2019)
 
-Richardson, Allissa V. "Looking As Rebellion: The Concept of Black Witnessing." In *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism*, chapter 1, 18-42. Oxford: Oxford University Press, 2020.
+Angela Nagle, *Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right* (Alresford, Hampshire, UK: Zero Books, 2017).
 
-Richardson, Allissa V. "The New Protest #Journalism: Black Witnessing as Counternarrative." In *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism*, chapter 3, 65-89. Oxford: Oxford University Press, 2020.
+[Parmy Olson](https://x.com/parmy), *Supremacy: AI, ChatGPT, and the Race that Will Change the World*. New York: MacMillan, 2024.
 
-## Week 6: Tribes - Subcultures, Lifestyles, Aesthetics
+Cathy O'Neil, with Stephen Baker, *The Shame Machine: Who Profits in the New Age of Humiliation* (New York: Crown/Random House, 2022).
 
-Giolo, Guilherme, and Michaël Berghman. "The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics." *Cultural Sociology* (2024). https://doi.org/10.1177/17499755241229570.
+Trevor Paglen, *How To See Like A Machine*. New York: Verso, 2026.
 
-[Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
+Dominic Pettman, *Ghosting: On Disappearance*. New York: Polity Press, 2025.
 
-## Week 7: Fandom
+Whitney Phillips, *This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture* (Cambridge: MIT Press, 2015).
 
-Baym, Nancy K. "Social Media and the Struggle for Society." *Social Media + Society* 1, no. 1 (2015): 1-2. https://doi.org/10.1177/2056305115580477.
+Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
 
-Baym, Nancy K., Daniel Cavicchi, and Norma Coates. "Music Fandom in the Digital Age: A Conversation." In *The Routledge Companion to Media Fandom*, edited by Melissa A. Click and Suzanne Scott, 141-152. New York: Routledge, 2018.
+[Allissa V. Richardson](https://allissavrichardson.com/), *Bearing Witness While Black: African Americans, Smartphones, and the New Protest \#Journalism*. Oxford: Oxford University Press, 2020.
 
-Tiffany, Kaitlyn. *Everything I Need I Get from You: How Fangirls Created the Internet as We Know It*. New York: Macmillan, 2022.
+Hito Steyerl, *Medium Hot: Images in the Age of Heat*. London: Verso, 2026.
 
-## Additional Recommended Readings
+Zeynep Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protes* (New Haven: Yale University Press, 2017).
 
-### Semiotics and Media Theory
-Barthes, Roland. *Mythologies*. Translated by Annette Lavers. New York: Hill and Wang, 1972.
+*Sherry Turkle, [*Artificial Intimacy: Who We Become When We Talk To Machines*](https://www.littlebrown.co.uk/titles/sherry-turkle-2/artificial-intimacy/9780349136912/). Boston: Little, Brown & Company. **Published 29 September**.
 
-Chandler, Daniel. *Semiotics: The Basics*. 3rd ed. London: Routledge, 2017.
+Michele White, *Touch Screen Theory: Digital Devices and Feelings* (Cambridge, MA: MIT Press, 2022).
 
-Hall, Stuart. "Encoding/Decoding." In *Culture, Media, Language: Working Papers in Cultural Studies, 1972-79*, edited by Stuart Hall, Dorothy Hobson, Andrew Lowe, and Paul Willis, 128-138. London: Hutchinson, 1980.
-
-### Ideology and Cultural Studies
-Eagleton, Terry. *Ideology: An Introduction*. 2nd ed. London: Verso, 2007.
-
-Gramsci, Antonio. *Selections from Cultural Writings*. Edited by David Forgacs and Geoffrey Nowell-Smith. Cambridge, MA: Harvard University Press, 1985.
-
-Williams, Raymond. *Keywords: A Vocabulary of Culture and Society*. Revised ed. New York: Oxford University Press, 1985.
-
-### Postmodernism and Simulation
-Baudrillard, Jean. *Simulacra and Simulation*. Translated by Sheila Faria Glaser. Ann Arbor: University of Michigan Press, 1994.
-
-Jameson, Fredric. *Postmodernism, or, The Cultural Logic of Late Capitalism*. Durham, NC: Duke University Press, 1991.
-
-Lyotard, Jean-François. *The Postmodern Condition: A Report on Knowledge*. Translated by Geoff Bennington and Brian Massumi. Minneapolis: University of Minnesota Press, 1984.
-
-### Digital Culture and Social Media
-boyd, danah. *It's Complicated: The Social Lives of Networked Teens*. New Haven: Yale University Press, 2014.
-
-Jenkins, Henry. *Participatory Culture: Interviews*. Cambridge: Polity Press, 2019.
-
-Marwick, Alice E. *Status Update: Celebrity, Publicity, and Branding in the Social Media Age*. New Haven: Yale University Press, 2013.
-
-Tufekci, Zeynep. *Twitter and Tear Gas: The Power and Fragility of Networked Protest*. New Haven: Yale University Press, 2017.
-
-### Feminism and Gender Studies
-
-Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990.
-
-hooks, bell. *Feminism Is for Everybody: Passionate Politics*. Cambridge, MA: South End Press, 2000.
-
-McRobbie, Angela. *The Aftermath of Feminism: Gender, Culture and Social Change*. London: Sage, 2009.
-
-Mulvey, Laura. "Visual Pleasure and Narrative Cinema." *Screen* 16, no. 3 (1975): 6-18.
-
-### Race and Media
-
-Bonilla, Yarimar, and Jonathan Rosa. "#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States." *American Ethnologist* 42, no. 1 (2015): 4-17.
-
-Gray, Herman. *Watching Race: Television and the Struggle for Blackness*. Minneapolis: University of Minnesota Press, 2004.
-
-Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York: NYU Press, 2018.
-
-### Subcultures and Fan Studies
-Hebdige, Dick. *Subculture: The Meaning of Style*. London: Routledge, 1979.
-
-Jenkins, Henry. *Textual Poachers: Television Fans and Participatory Culture*. 2nd ed. New York: Routledge, 2012.
-
-Thornton, Sarah. *Club Cultures: Music, Media, and Subcultural Capital*. Middletown, CT: Wesleyan University Press, 1996.
-
-## Filmography
-
-*El Planeta*. Directed by Amalia Ulman. Holga's Meow Pictures, 2020. Film, 79 minutes.
-
-*Inventing Anna*. Directed by Shonda Rhimes. Netflix, 2022. Television miniseries.
-
-*Squid Game*. Directed by Hwang Dong-hyuk. Netflix, 2021. Television series, 9 episodes.
+Christopher Wylie, *Mindf\*\*k: Cambridge Analytica and the Plot to Break America* (New York: Random House, 2019).

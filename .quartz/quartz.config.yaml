@@ -133,8 +133,10 @@ plugins:
     enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
+  # Off: with no custom domain, this emits a CNAME of `mroberts1.github.io`,
+  # which GitHub Pages would take as the custom domain for a project site.
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
@@ -175,6 +177,8 @@ plugins:
       priority: 10
   - source: "@quartz-community/content-meta"
     enabled: true
+    options:
+      showReadingTime: false
     layout:
       position: beforeBody
       priority: 20
