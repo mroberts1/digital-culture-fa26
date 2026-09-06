@@ -16,9 +16,11 @@ public/
 # build locally and still never reach the repo, so [pdf] links 404 only on the
 # published site.
 
-# Obsidian: keep settings, skip the 69M of installed plugins and local state
-.obsidian/plugins/
-.obsidian/workspace*
+# Local Obsidian app state. Contains plugin credentials and large binaries;
+# the site build does not need it. Matches the other course vaults, which
+# never tracked it: this one had 1.9M of themes and snippets in the repo,
+# which are editor appearance, not site content.
+.obsidian/
 
 # Local tooling caches
 .smart-env/
