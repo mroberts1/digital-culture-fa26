@@ -1,0 +1,19 @@
+{
+  "base_url": "https://canvas.emerson.edu",
+  "course_id": 2197373,
+  "site_url": "https://mroberts1.github.io/digital-culture-fa26",
+  "draft_title": "Syllabus (draft from vault)",
+  "cover_width": 640,
+  "cover_height": 427,
+  "pages": [
+    {
+      "source": "bibliography",
+      "title": "Bibliography"
+    },
+    {
+      "source": "keywords",
+      "title": "Digital Culture Snapshot"
+    }
+  ],
+  "home_title": "Home Page"
+}
