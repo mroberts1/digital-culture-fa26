@@ -19,6 +19,7 @@ date: 2 September 2026
 - facetuning
 - gamification
 - ghosting
+- goblin-mode
 - hallucination
 - looksmaxxing
 - manosphere
