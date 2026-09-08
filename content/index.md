@@ -68,7 +68,13 @@ E: Ebook
 
 **Commentary** (weekly discussion posts) (20%)
 
-One or more discussion posts per week on reading assignments, submitted anytime during the week of the assignments in question. A minimum of ten weekly posts is required.
+Two Commentary posts on Canvas each week, commenting on or asking questions about reading and/or screening  assignments. A minimum of twenty weekly posts (minimum two per week over ten weeks) is required.
+
+Your first post should engage directly with reading and/or screening assignments for the week in question: what topics or points did you find particularly intriguing? What is the author's argument as you understand it? Do you need clarification on the meaning of particular terms? What other sources are relevant to the reading or media in question? 
+
+NB: Engage with the assigned source. That is, avoid simply using it as a jumping-off point for something else that it reminded you of, unless this is directly relevant to it.
+
+The weekly posting schedule runs for one week from Tuesday to the following Tuesday. Please make your first post before the Tuesday class if possible, and no later than Thursday of the week in question. The second follow-up post should respond either to someone else's comment or should engage with topics and issues raised during class meetings.
 
 **Keywords** (20%) 
 
