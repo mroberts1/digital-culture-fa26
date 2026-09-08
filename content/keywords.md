@@ -14,11 +14,11 @@ date: 2 September 2026
 - brat
 - chatbot
 - doomscrolling
-- enshittification
 - facetuning
 - gamification
 - ghosting
 - goblin-mode
+- gooning
 - hallucination
 - looksmaxxing
 - manosphere
