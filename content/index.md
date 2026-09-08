@@ -102,9 +102,9 @@ Introduction: Remembering The Future
 
 09-08_Tues
 
-Chris Kelty, *The Internet We Could Have Had* (chs. TBA)
-
 09-10_Thur
+
+- Mark Fisher, "[The slow cancellation of the future](pdf/mark-fisher-ghosts-intro.pdf)" in (*Ghosts of My Life*)
 
 ***
 
