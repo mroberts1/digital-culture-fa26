@@ -8,7 +8,6 @@ date: 2 September 2026
 - aesthetic
 - AI-slop
 - algospeak
-- angelicism
 - aura-farming
 - babygirl
 - brainrot
@@ -26,6 +25,7 @@ date: 2 September 2026
 - moodboard
 - overthinking
 - ragebait
+- sandboxing
 - shitposting
 - vibe-coding
 - vtuber
