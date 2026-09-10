@@ -121,7 +121,7 @@ Introduction: Remembering The Future
 
 09-15_Tues
 
-Bogna Konior, [*The Dark Forest Theory of the Internet*](E: [Bogna Konior](https://bognamk.com/), [*The Dark Forest Theory of the Internet*](https://www.politybooks.com/bookdetail?book_slug=the-dark-forest-theory-of-the-internet--9781509569250). Cambridge: Polity Press, 2026.)
+Bogna Konior, [*The Dark Forest Theory of the Internet*](https://cdn.sanity.io/files/pzp8420m/production/37f26bcd27bdf5ddaa494daf9ef3f9648b7adc4c.pdf)
 (read at least this short version; chapters from the longer book will also be provided)
 
 09-17_Thur
