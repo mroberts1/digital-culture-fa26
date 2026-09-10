@@ -24,7 +24,6 @@ date: 2 September 2026
 - hallucination
 - looksmaxxing
 - mogging
-- morning-routine
 - prediction-market
 - ragebait
 - red-flag
