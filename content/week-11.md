@@ -1,5 +1,5 @@
 ---
-title: "Week 11: Poor Images: Post-Internet Aesthetics"
+title: "W11: Poor Images: Post-Internet Aesthetics"
 ---
 
 *10-12 November 2026*

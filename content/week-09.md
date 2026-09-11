@@ -1,5 +1,5 @@
 ---
-title: "Week 9: Generative Art: Creative Coding"
+title: "W9: Generative Art: Creative Coding"
 ---
 
 *27-29 October 2026*

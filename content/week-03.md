@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Hiding from Predators"
+title: "W3: Hiding from Predators"
 ---
 
 *15-17 September 2026*

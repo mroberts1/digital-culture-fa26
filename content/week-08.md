@@ -1,5 +1,5 @@
 ---
-title: "Week 8: Artificial Companions"
+title: "W8: Artificial Companions"
 ---
 
 *20-22 October 2026*

@@ -1,5 +1,5 @@
 ---
-title: "Week 12: Playable Worlds: Spatial Intelligence"
+title: "W12: Playable Worlds: Spatial Intelligence"
 ---
 
 *17-19 November 2026*

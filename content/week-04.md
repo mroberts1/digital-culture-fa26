@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Retouch, Refine, Remodel: Social Media"
+title: "W4: Retouch, Refine, Remodel: Social Media"
 ---
 
 *22-24 September 2026*

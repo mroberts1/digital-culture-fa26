@@ -1,5 +1,5 @@
 ---
-title: "Week 10: Operational Images / Cryptoart"
+title: "W10: Operational Images / Cryptoart"
 ---
 
 *3-5 November 2026*

@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Synthetic Data: Model Collapse"
+title: "W7: Synthetic Data: Model Collapse"
 ---
 
 *13-15 October 2026*

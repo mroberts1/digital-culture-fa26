@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Internet Cinema"
+title: "W6: Internet Cinema"
 ---
 
 *6-8 October 2026*

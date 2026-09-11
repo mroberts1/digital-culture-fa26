@@ -1,5 +1,5 @@
 ---
-title: "Week 5: BRAT"
+title: "W5: BRAT"
 ---
 
 *29 September - 1 October 2026*
