@@ -180,8 +180,11 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
+  # Off: the weekly pages each link back to index.md, which gave the syllabus a
+  # long backlinks list in the right margin. The links are wanted; the section
+  # is not.
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
