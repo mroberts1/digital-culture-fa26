@@ -24,6 +24,8 @@ Gabriella Coleman, *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonym
 
 [Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), [*Content*](https://mitpress.mit.edu/9780262543286/content/). Essential Knowledge Series (Cambridge, MA: MIT Press, 2022).
 
+Ann Elias, Ross Harley, and Nicholas Tsoutas, eds., *Camouflage Cultures: Beyond the Art of Disappearance*. Sydney: Sydney University Press.
+
 [Karen Hao](https://karendhao.com/home), [*Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI*](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/). New York: Penguin Random House, 2025.
 
 Adrian Hon, *You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All* (New York: Basic Books, 2022).

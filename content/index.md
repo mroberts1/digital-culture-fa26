@@ -58,7 +58,7 @@ E: Ebook
 
 - Christopher Kelty, [*The Internet We Could Have Had*](https://www.politybooks.com/bookdetail?book_slug=the-internet-we-could-have-had--9781509574506). Cambridge: Polity Press, 2026)
 
-- E: [Bogna Konior](https://bognamk.com/), [*The Dark Forest Theory of the Internet*](https://www.politybooks.com/bookdetail?book_slug=the-dark-forest-theory-of-the-internet--9781509569250). Cambridge: Polity Press, 2026.
+- E: [Bogna Konior](https://bognamk.com/), [*The Dark Forest Theory of the Internet*](https://www.politybooks.com/bookdetail?book_slug=the-dark-forest-theory-of-the-internet--9781509569250). Cambridge: Polity Press, 2026. This text is available as an e-book on the Polity Press website.
 - \---, [*The Dark Forest Theory of the Internet*](https://cdn.sanity.io/files/pzp8420m/production/37f26bcd27bdf5ddaa494daf9ef3f9648b7adc4c.pdf). Pittsburg and New York: Flugschriften, 2020.
 
 - E: Trevor Paglen, [*How To See Like A Machine*](https://www.versobooks.com/products/3477-how-to-see-like-a-machine?_pos=1&_psq=paglen&_psid=1b17437f0&_ss=e). New York: Verso, 2026.

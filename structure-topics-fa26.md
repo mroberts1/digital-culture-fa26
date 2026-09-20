@@ -7,6 +7,7 @@
 - What was "digital art"?
 - What was "social media"?
 - What was "AI slop"?
+- What was "vibe coding"?
 
 - What were "virtual communities"?
 - What was "ASCii Art"?
