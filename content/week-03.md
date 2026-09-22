@@ -1,5 +1,5 @@
 ---
-title: "W3: Hiding from Predators"
+title: "W3: Hiding in the Light"
 ---
 
 *15-17 September 2026*

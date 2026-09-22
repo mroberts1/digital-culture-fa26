@@ -117,7 +117,7 @@ Introduction: Remembering The Future
 
 *Week 3*
 
-**Hiding from Predators**
+**Hiding in the Light**
 
 09-15_Tues
 
@@ -131,11 +131,23 @@ Bogna Konior, [*The Dark Forest Theory of the Internet*](https://cdn.sanity.io/f
 
 *Week 4*
 
-**Retouch, Refine, Remodel: Social Media**
+**Hiding in the Light** (cont.)
 
 09-22_Tues
 
-Freya India, "Filtered" (in *GIRLS®*)
+Bogna Konior, _The Dark Forest Theory of the Internet*:
+
+- "Introduction"
+- "The Dark Forest Theory of Information" (ch. 1)
+- "The Dark Forest Theory of Intelligence" (ch. 2) (optional)
+
+Ann Elias et al, "[Introduction](pdf/camouflage-cultures-intro.pdf)
+
+" (_Camouflage Cultures: Beyond the Art of Disappearance_)
+
+Trevor Paglen, "[Invisible Images: Your Pictures Are Looking At You](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)" (_The New Inquiry_), 8 December 2016)
+
+Kari Paul, "[How to Disappear: The Rise of Anti-Surveillance Fashion](https://www.mozillafoundation.org/en/nothing-personal/anti-surveillance-fashion-privacy-ai)" (_Mozilla Foundation_, 24 November 2025)
 
 09-24_Thur
 
@@ -143,11 +155,13 @@ Freya India, "Filtered" (in *GIRLS®*)
 
 *Week 5*
 
-**BRAT**
+****
+
+**Retouch, Refine, Remodel: Social Media**
 
 09-29_Tues
 
-Screening: Charli XCX, *Brat*
+Freya India, "Filtered" (in *GIRLS®*)
 
 10-01_Thur
 
