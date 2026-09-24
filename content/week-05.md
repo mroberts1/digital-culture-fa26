@@ -1,17 +1,18 @@
 ---
-title: "W5: BRAT"
+title: "W5: Talking to Algorithms"
 ---
 
-*29 September - 1 October 2026*
+**Talking to Algorithms**
 
-## Tuesday 29 September
+09-29_Tues
 
-- Screening: Charli XCX, *Brat*
+- Taylor Lorenz, “[Internet ‘algospeak’ is changing our language in real time, from ‘nip nops’ to ‘le dollar bean’](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)” (_Washington Post_, 8 April 2022)
+- Emma Madden, “[More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture](https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/)’” (_WIRED_, 29 July 2026) \[[pdf](pdf/emma-madden-wired.pdf)\]
 
-## Thursday 1 October
+10-01_Thur
 
-No assigned reading.
+Adam Aleksic, [_Algospeak_](pdf/algospeak-chapters.pdf) (read Intro and ch. 3; ch. 6 is optional)
 
-***
-
-[Back to the syllabus](index)
+- “Why Your Kids Are Saying ‘Unalive’” (Introduction)
+- “No Because What Happened To Your Attention?” (ch. 3)
+- “Wordpilled Slangmaxxing” (ch. 6)

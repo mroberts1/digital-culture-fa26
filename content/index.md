@@ -117,7 +117,7 @@ Introduction: Remembering The Future
 
 *Week 3*
 
-**Hiding in the Light**
+**Hidden Agendas**
 
 09-15_Tues
 
@@ -131,7 +131,7 @@ Bogna Konior, [*The Dark Forest Theory of the Internet*](https://cdn.sanity.io/f
 
 *Week 4*
 
-**Hiding in the Light** (cont.)
+**Hidden Agendas** (cont.)
 
 09-22_Tues
 
@@ -147,38 +147,42 @@ Ann Elias et al, "[Introduction](pdf/camouflage-cultures-intro.pdf)
 
 Trevor Paglen, "[Invisible Images: Your Pictures Are Looking At You](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)" (_The New Inquiry_), 8 December 2016)
 
+09-24_Thur
+
 Kari Paul, "[How to Disappear: The Rise of Anti-Surveillance Fashion](https://www.mozillafoundation.org/en/nothing-personal/anti-surveillance-fashion-privacy-ai)" (_Mozilla Foundation_, 24 November 2025)
 
-09-24_Thur
+See also: Torin Monahan, "[The Right to Hide? Anti-Surveillance Camouflage and the Aestheticization of Resistance](https://publicsurveillance.com/papers/Right-to-hide.pdf)"
 
 ***
 
 *Week 5*
 
-****
-
-**Retouch, Refine, Remodel: Social Media**
+**Talking to Algorithms**
 
 09-29_Tues
 
-Freya India, "Filtered" (in *GIRLS®*)
+- Taylor Lorenz, “[Internet ‘algospeak’ is changing our language in real time, from ‘nip nops’ to ‘le dollar bean’](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)” (_Washington Post_, 8 April 2022)
+- Emma Madden, “[More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture](https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/)’” (_WIRED_, 29 July 2026) \[[pdf](pdf/emma-madden-wired.pdf)\]
 
 10-01_Thur
 
+Adam Aleksic, [_Algospeak_](pdf/algospeak-chapters.pdf) (read Intro and ch. 3; ch. 6 is optional)
+
+- “Why Your Kids Are Saying ‘Unalive’” (Introduction)
+- “No Because What Happened To Your Attention?” (ch. 3)
+- “Wordpilled Slangmaxxing” (ch. 6)
 
 ***
 
 *Week 6*
 
-**Internet Cinema**
+**Retouch, Refine, Remodel: Social Media**
 
 10-06_Tues
 
-- [redactedcut](https://www.instagram.com/p/C5VmEzIp1Ge/) WARNING: Strobing imagery
-- *PalCoreCore* (Dana Dawud, 2024)
+Freya India, "Filtered" (in *GIRLS®*)
 
 10-08_Thur
-
 
 ***
 

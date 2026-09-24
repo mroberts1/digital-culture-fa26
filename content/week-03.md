@@ -1,5 +1,5 @@
 ---
-title: "W3: Hiding in the Light"
+title: "W3: Hidden Agendas"
 ---
 
 *15-17 September 2026*

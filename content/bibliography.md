@@ -52,6 +52,8 @@ Stefania Maurizi, *Secret Power: Wikileaks and Its Enemies*. Pluto Press, 2023.
 
 E: [Gretchen McCulloch](https://gretchenmcculloch.com/), [*Because Internet: Understanding the New Rules of Language*](https://gretchenmcculloch.com/book/) (Riverhead Books, 2019)
 
+Torin Monahan, "[The Right to Hide? Anti-Surveillance Camouflage and the Aestheticization of Resistance](https://publicsurveillance.com/papers/Right-to-hide.pdf)". *Communication and Critical/Cultural Studies* Vol. 12, No. 2, June 2015, pp. 159–178.
+
 A/E: Angela Nagle, *Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right* (Alresford, Hampshire, UK: Zero Books, 2017).
 
 A/E: [Parmy Olson](https://x.com/parmy), *Supremacy: AI, ChatGPT, and the Race that Will Change the World*. New York: MacMillan, 2024.
