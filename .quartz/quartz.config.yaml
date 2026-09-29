@@ -24,7 +24,7 @@ configuration:
     # @quartz-community/og-image and these must go back to families Google
     # actually serves; Helvetica Neue is not one.
     typography:
-      header: neue-haas-unica
+      header: changeling-neo
       body: neue-haas-unica
       code: neue-haas-unica
     colors:
@@ -124,7 +124,7 @@ plugins:
     enabled: true
     options:
       fontOrigin: local
-      header: neue-haas-unica
+      header: changeling-neo
       body: neue-haas-unica
       code: neue-haas-unica
   - source: "@quartz-themes/core"
