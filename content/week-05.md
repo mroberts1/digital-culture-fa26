@@ -16,3 +16,6 @@ Adam Aleksic, [_Algospeak_](pdf/algospeak-chapters.pdf) (read Intro and ch. 3; c
 - “Why Your Kids Are Saying ‘Unalive’” (Introduction)
 - “No Because What Happened To Your Attention?” (ch. 3)
 - “Wordpilled Slangmaxxing” (ch. 6)
+
+See also: Kai Strittmatter, "[The Eye: How the Party is Updating its Rule with Artificial Intelligence](pdf/strittmatter-the-eye.pdf
+)" (in *We Have been Harmonized*)

@@ -70,6 +70,8 @@ Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating
 
 E: Hito Steyerl, *Medium Hot: Images in the Age of Heat*. London: Verso, 2026.
 
+Kai Strittmatter, *We Have Been Harmonized: Life in China's Surveillance State*. New York: Custom House, 2020.
+
 Zeynep Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protes* (New Haven: Yale University Press, 2017).
 
 *Sherry Turkle, [*Artificial Intimacy: Who We Become When We Talk To Machines*](https://www.littlebrown.co.uk/titles/sherry-turkle-2/artificial-intimacy/9780349136912/). Boston: Little, Brown & Company. **Published 29 September**.
