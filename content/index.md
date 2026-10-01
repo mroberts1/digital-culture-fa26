@@ -176,11 +176,13 @@ Adam Aleksic, [_Algospeak_](pdf/algospeak-chapters.pdf) (read Intro and ch. 3; c
 
 *Week 6*
 
-**Retouch, Refine, Remodel: Social Media**
+**Retro-Futurism**
 
 10-06_Tues
 
-Freya India, "Filtered" (in *GIRLS®*)
+- F.T. Marinetti, [Futurist Manifesto](https://www.italianfuturism.org/manifestos/foundingmanifesto/)
+- Valentine de Saint Point, [Manifesto of the Futurist Woman](https://www.italianfuturism.org/manifestos/the-manifesto-of-futurist-woman/)
+- Simon Denny, "[Epic Fury: The Dark Art of Defence Tech](https://www.artforum.com/features/simon-denny-art-defense-tech-1234747490/)" (*Artforum*, 20 April 2026) 
 
 10-08_Thur
 
