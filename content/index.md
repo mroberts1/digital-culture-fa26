@@ -166,11 +166,11 @@ See also: Torin Monahan, "[The Right to Hide? Anti-Surveillance Camouflage and t
 
 10-01_Thur
 
-Adam Aleksic, [_Algospeak_](pdf/algospeak-chapters.pdf) (read Intro and ch. 3; ch. 6 is optional)
+Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
-- “Why Your Kids Are Saying ‘Unalive’” (Introduction)
-- “No Because What Happened To Your Attention?” (ch. 3)
-- “Wordpilled Slangmaxxing” (ch. 6)
+- "[Introduction](pdf/algospeak-intro.pdf)"
+- "[How to Play Linguistic Whac-A-Mole](pdf/algospeak-ch1.pdf)" (ch. 1)
+- "[Sticking Out Your Gyat For The Rizzler](pdf/algospeak-ch2.pdf)" (ch. 2) (NB: chapters 1-2 are a single PDF)
 
 ***
 
