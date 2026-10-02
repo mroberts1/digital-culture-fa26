@@ -14,5 +14,5 @@ title: "W5: Talking to Algorithms"
 Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 - "[Introduction](pdf/algospeak-intro.pdf)"
-- "[How to Play Linguistic Whac-A-Mole](pdf/algospeak-ch1.pdf)" (ch. 1)
-- "[Sticking Out Your Gyat For The Rizzler](pdf/algospeak-ch2.pdf)" (ch. 2) (NB: chapters 1-2 are a single PDF)
+- "[How to Play Linguistic Whac-A-Mole](pdf/algospeak-chs1-2.pdf)" (ch. 1)
+- "[Sticking Out Your Gyat For The Rizzler](pdf/algospeak-chs1-2.pdf)" (ch. 2) (NB: chapters 1-2 are a single PDF)
