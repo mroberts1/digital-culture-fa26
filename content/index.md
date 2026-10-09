@@ -186,6 +186,7 @@ Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 10-08_Thur
 
+- Mark Andressen, "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)" (2023)
 ***
 
 *Week 7*
