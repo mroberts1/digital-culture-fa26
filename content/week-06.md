@@ -13,6 +13,6 @@ _Giacomo Balla, "[Dinamismo di un cane al guinzaglio](https://en.wikipedia.org/w
 - Simon Denny, “[Epic Fury: The Dark Art of Defence Tech](https://www.artforum.com/features/simon-denny-art-defense-tech-1234747490/)” (_Artforum_, 20 April 2026)
 ## Thursday 8 October
 
-- Mark Andressen, "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)" (2023)
+- Mark Andreessen, "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)" (2023)
 ***
 

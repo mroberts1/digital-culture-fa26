@@ -186,19 +186,20 @@ Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 10-08_Thur
 
-- Mark Andressen, "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)" (2023)
+- Mark Andreessen, "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)" (2023)
 ***
 
 *Week 7*
 
-**Synthetic Data: Model Collapse**
+**Model Collapse**
 
 10-13_Tues
 
 - Ted Chiang, "[ChatGPT Is A Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web?__readwiseLocation=)" (*The New Yorker*, 9 February 2023)
-- Richard Baraniuk, "[The Birth of the Open-Source Learning Revolution](https://www.ted.com/talks/richard_baraniuk_the_birth_of_the_open_source_learning_revolution?__readwiseLocation=)" (TED talk)
 
 10-15_Thur
+
+- Richard Baraniuk, "[The Birth of the Open-Source Learning Revolution](https://www.ted.com/talks/richard_baraniuk_the_birth_of_the_open_source_learning_revolution?__readwiseLocation=)" (TED talk)
 
 ***
 
