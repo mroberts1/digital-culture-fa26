@@ -6,7 +6,7 @@ institution: Emerson College
 
 ![[online-marketplace-ideas.jpg]]
 
-<small>Joshua Citarella and Caroline Busta, [*The Online Marketplace of Ideas*](https://joshuacitarella.substack.com/p/the-online-marketplace-of-ideas?__readwiseLocation=) (2026)</small>
+<small>Joshua Citarella and Caroline Busta, [*The Online Marketplace of Ideas*](https://joshuacitarella.substack.com/p/the-online-marketplace-of-ideas) (2026)</small>
 
 > [!custom]+ VM303-01
 > [School of Film, Television, & Media Arts](https://emerson.edu/schools/school-of-film-television-and-media-arts/)\
@@ -199,20 +199,23 @@ Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 10-15_Thur
 
-- Richard Baraniuk, "[The Birth of the Open-Source Learning Revolution](https://www.ted.com/talks/richard_baraniuk_the_birth_of_the_open_source_learning_revolution?__readwiseLocation=)" (TED talk)
-
 ***
 
 *Week 8*
 
-**Artificial Companions**
+**Sinofuturism**
 
 10-20_Tues
 
-- Kazuo Ishiguro, *Klara and the Sun* (read at least the first section)
+- Lawrence Lek, [Sinofuturism](https://www.lawrencelek.com/works/sinofuturism) website
+- Byung-Chul Han, [_Shanzhai_](pdf/shanzhai.pdf)  
+- Jeroen de Kloet and Yiu Fai Chow, "[Shanzhai Culture, Dafen Art, and Copyrights](pdf/shanzhai-dafen.pdf)"
 
 10-22_Thur
 
+**Artificial Companions**
+
+- Kazuo Ishiguro, *Klara and the Sun* (read at least the first section)
 - Screening: *After Yang* (kogonada, 2021)
 
 ***
