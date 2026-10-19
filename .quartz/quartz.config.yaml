@@ -24,7 +24,7 @@ configuration:
     # @quartz-community/og-image and these must go back to families Google
     # actually serves; Helvetica Neue is not one.
     typography:
-      header: changeling-neo
+      header: VG5000
       body: Paper Mono
       code: Paper Mono
     colors:
@@ -124,7 +124,7 @@ plugins:
     enabled: true
     options:
       fontOrigin: local
-      header: changeling-neo
+      header: VG5000
       body: Paper Mono
       code: Paper Mono
   - source: "@quartz-themes/core"
