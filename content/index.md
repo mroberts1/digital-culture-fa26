@@ -1,5 +1,5 @@
 ---
-title: VM303 Digital Media & Culture
+title: Studies in digital media & culture
 instructor: Martin Roberts
 institution: Emerson College
 ---
