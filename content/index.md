@@ -3,7 +3,7 @@ title: Studies in digital media & culture
 instructor: Martin Roberts
 institution: Emerson College
 ---
-__
+
 ![[online-marketplace-ideas.jpg]]
 
 <small>Joshua Citarella and Caroline Busta, [*The Online Marketplace of Ideas*](https://joshuacitarella.substack.com/p/the-online-marketplace-of-ideas) (2026)</small>
