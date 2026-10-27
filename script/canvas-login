@@ -29,6 +29,7 @@ password=$(security find-generic-password -s canvas-emerson -a "$ACCOUNT" -w) ||
   exit 1
 }
 
+agent-browser wait 'input[type=email], input[name=email]'
 agent-browser fill 'input[type=email], input[name=email]' "$ACCOUNT"
 agent-browser find role button click --name Next
 agent-browser wait 'input[type=password]'
