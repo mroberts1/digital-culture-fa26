@@ -94,7 +94,9 @@ Shared with the other Emerson course vaults: read `~/.claude/emerson-canvas.md` 
 
 Specific to this vault:
 
-- Course 2197373, configured in `canvas.json`. Pages are `bibliography`, `keywords` (titled "Digital Culture Snapshot") and `future-perfect`.
+- Course 2197373, configured in `canvas.json`. Pages are `bibliography`, `keywords` (titled "Digital Culture Snapshot"), `future-perfect`, `week-05` and `week-09`. A week page reaches Canvas only once it is listed there.
+- `home_title` must match the Canvas front page title exactly, currently "Studies in Digital Media & Culture". A mismatch makes `home` create a new non-front page (`home-page-2`) instead of updating the front page.
+- `script/canvas home` fails with "could not extract the cover and details" if anything sits on the same paragraph as the cover image at the top of `index.md` (a stray `__` did this).
 - `script/canvas` and `script/canvas-login` are the same as marlboro's.
 - Pages and Canvas are separate pushes and both must go out together.
 - `content/pdf/` (readings) is excluded through `.git/info/exclude`. Scans go in Canvas Files, never on Pages.
