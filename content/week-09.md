@@ -1,5 +1,5 @@
 ---
-title: "W9: Artificial Companions"
+title: "Artificial Companions"
 ---
 
 

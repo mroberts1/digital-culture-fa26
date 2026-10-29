@@ -223,15 +223,19 @@ Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 *Week 9*
 
-**Generative Art: Creative Coding**
+**Ghosting**
 
 10-27_Tues
  
-- Benedikt Gross, Hartmut Bohnacker, Julia Laub, and Claudius Lazzeroni, [*Generative Design*](http://www.generative-gestaltung.de/2/)
+- Dominic Pettman, "[Introduction](pdf/pettman-ghosting.pdf)" (*Ghosting*)
+- Greg Narr and Anh Luong, “[Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom](pdf/bored-ghosts.pdf)" (*The Communication Review*, 5 October)
+- Jane Barnette, “[Hocus-Pocus: WitchTok Education for Baby Witches](pdf/witchtok.pdf)” (in Trevor Boffone, _TikTok Cultures in the United States_)
 
 10-29_Thur
 
-**Datamoshing & Diffusion**
+**Generative Art: Creative Coding**
+
+- Benedikt Gross, Hartmut Bohnacker, Julia Laub, and Claudius Lazzeroni, [*Generative Design*](http://www.generative-gestaltung.de/2/)
 
 ***
 
