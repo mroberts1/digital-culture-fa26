@@ -654,3 +654,20 @@ article h6 > a {
     text-decoration: none;
   }
 }
+
+// quartz-image-zoom opens a lightbox on any img.lightbox-image click. For an
+// image wrapped in a link, let the click reach the link instead.
+a > img.lightbox-image {
+  pointer-events: none;
+}
+
+// The anchor needs its own box, otherwise clicks fall through the image to
+// the paragraph and the link never fires.
+a:has(> img.lightbox-image) {
+  display: inline-block;
+  cursor: pointer;
+
+  > .external-icon {
+    display: none;
+  }
+}
