@@ -221,7 +221,7 @@ Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 *Week 9*
 
-**Ghosting**
+**Phantasmagorias**
 
 10-27_Tues
  
