@@ -4,9 +4,7 @@ instructor: Martin Roberts
 institution: Emerson College
 ---
 
-![[online-marketplace-ideas.jpg]]
-
-<small>Joshua Citarella and Caroline Busta, [*The Online Marketplace of Ideas*](https://joshuacitarella.substack.com/p/the-online-marketplace-of-ideas) (2026)</small>
+[![[friend-future.png]]](https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html)
 
 > [!custom]+ VM303-01
 > [School of Film, Television, & Media Arts](https://emerson.edu/schools/school-of-film-television-and-media-arts/)\
