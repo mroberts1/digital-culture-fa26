@@ -127,22 +127,24 @@ def transform(html, cfg, with_table=True, upload=False):
     # caption left, course details right. Quartz stacks them vertically
     # instead, so rebuild the table here rather than diverge from the layout
     # already in use.
-    # The caption may or may not be wrapped in <small>; vaults differ.
-    cover = re.search(r'<p><img src="([^"]+)"[^>]*/?></p>\s*'
-                      r'<p>(?:<small>)?(.*?)(?:</small>)?</p>',
+    # The caption may or may not be wrapped in <small>; vaults differ. The
+    # cover may be wrapped in a link, and the caption may be absent.
+    cover = re.search(r'<p>(?:<a href="([^"]+)"[^>]*>)?'
+                      r'<img src="([^"]+)"[^>]*/?>(?:</a>)?</p>\s*'
+                      r'(?:<p>(?:<small>)?(.*?)(?:</small>)?</p>)?',
                       a, re.S) if with_table else None
     callout = re.search(r'<blockquote class="callout.*?'
                         r'<div class="callout-title-inner"><p>(.*?)</p></div>.*?'
                         r'<div class="callout-content">(.*?)</div>\s*</blockquote>',
                         a, re.S)
     if cover and callout:
-        caption = cover.group(2).strip()
+        caption = (cover.group(3) or "").strip()
         heading = callout.group(1).strip()
         details = callout.group(2).strip()
         # cover_image_url is an override, for a cover hosted on Canvas itself.
         # Without it, use whatever index.md points at, so changing the cover in
         # the vault does not leave a stale URL in canvas.json.
-        src = cfg.get("cover_image_url") or cover.group(1)
+        src = cfg.get("cover_image_url") or cover.group(2)
         dims = ""
         if cfg.get("cover_width"):
             dims = f' width="{cfg["cover_width"]}"'
@@ -150,7 +152,7 @@ def transform(html, cfg, with_table=True, upload=False):
                 dims += f' height="{cfg["cover_height"]}"'
         # No JS lightbox is possible: Canvas strips <script>. Linking the
         # image to itself is the workable equivalent, opening it full size.
-        full = cfg.get("cover_full_url") or src
+        full = cfg.get("cover_full_url") or cover.group(1) or src
         img = (f'<a href="{full}" target="_blank" rel="noopener">'
                f'<img src="{src}" alt="Course cover image"{dims}></a>')
         parts.update(cover_src=src, cover_full=full, caption=caption,
@@ -160,7 +162,8 @@ def transform(html, cfg, with_table=True, upload=False):
             "<tbody>\n<tr>\n"
             '<td style="width: 50%; vertical-align: top;">\n'
             f"<p>{img}</p>\n"
-            f'<p><span style="font-size: 8pt;">{caption}</span></p>\n'
+            + (f'<p><span style="font-size: 8pt;">{caption}</span></p>\n' if caption else "")
+            +
             "</td>\n"
             '<td style="width: 50%; text-align: left; vertical-align: top;">\n'
             f"<p>{heading}</p>\n{details}\n"
@@ -435,8 +438,8 @@ def main():
         home = (
             f'<p><a href="{parts["cover_full"]}" target="_blank" rel="noopener">'
             f'<img src="{parts["cover_src"]}" alt="Course cover image"></a></p>\n'
-            f'<p><span style="font-size: 8pt;">{parts["caption"]}</span></p>\n'
-            f'<p>{parts["heading"]}</p>\n{parts["details"]}\n'
+            + (f'<p><span style="font-size: 8pt;">{parts["caption"]}</span></p>\n' if parts["caption"] else "")
+            + f'<p>{parts["heading"]}</p>\n{parts["details"]}\n'
             + "<p>" + " | ".join(nav) + "</p>"
             + ("\n<hr>\n<p>" + " | ".join(weeks) + "</p>" if weeks else "")
         )
