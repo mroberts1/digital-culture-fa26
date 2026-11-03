@@ -1,22 +1,26 @@
 ---
-title: "W10: Operational Images / Cryptoart"
+title: "W10: Phantasmagorias"
 ---
 
-*3-5 November 2026*
-
-## Tuesday 3 November
-
-**Operational Images: Sensing and Object Detection**
-
-- Jussi Parikka, *Operational Images*
-- Trevor Paglen, "Invisible Images" (*How To See Like A Machine*, ch. 1)
-
-## Thursday 5 November
-
-**The Online Marketplace of Art: Cryptoart**
-
-No assigned reading.
+- Mark Fisher, "[What is Hauntology?](pdf/fisher-hauntology.pdf)"
+- [Ghost Box](https://ghostbox.greedbag.com/) (record label)
 
 ***
 
-[Back to the syllabus](index)
+**Magic lanterns**
+
+![](https://youtu.be/qmjESb1xC08)
+
+***
+
+**The Caretaker - Everwhere at the End of Time**
+
+![](https://youtu.be/HlCKYeQFw3U)
+
+![](https://youtu.be/Is8FSKprMPI)
+
+***
+
+**The Liminal**
+
+![](https://youtu.be/2T7wSwQtkts)
