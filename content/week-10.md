@@ -31,7 +31,7 @@ title: "W10: Phantasmagorias"
 
 **The Caretaker VR Game**
 
-![](https://youtu.be/Ikz1R9ZRgxgI)
+![](https://youtu.be/Ikz1R9ZRgxg)
 
 ***
 
