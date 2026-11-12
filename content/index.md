@@ -241,71 +241,59 @@ Adam Aleksic, *Algospeak* (read Intro and chs. 1-2)
 
 11-03_Tues
 
-**Operational Images: Sensing and Object Detection**
-
-- Jussi Parikka, *Operational Images*
-- Trevor Paglen, "Invisible Images" (*How To See Like A Machine*, ch. 1)
+- Dominic Pettman, "[Introduction](pdf/pettman-ghosting.pdf)" (*Ghosting*)
+- Greg Narr and Anh Luong, “[Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom](pdf/bored-ghosts.pdf)" (*The Communication Review*, 5 October)
+- Jane Barnette, “[Hocus-Pocus: WitchTok Education for Baby Witches](pdf/witchtok.pdf)” (in Trevor Boffone, _TikTok Cultures in the United States_)
 
 11-05_Thur
 
-**The Online Marketplace of Art: Cryptoart**
+**Hauntology**
 
-<div>
-
-<video autoplay loop muted playsinline controls="false" width="100%">
-
-<source src="video/artifact.mp4" type="video/mp4">
-
-</video>
-
-</div>
-
-<!-- ![](gif/artifact.gif) -->
-
-<small>NFT art: Humdrum, "[praying in the wrong language](https://objkt.com/collections/KT1E7znsyTBbvpzTv3AbyWZ2K9XNwzt3zViJ)" (22 July 2025)\
-Current price: $62.18 (100.00 ꜩ) </small>
+- Mark Fisher, "[What is Hauntology?](pdf/fisher-hauntology.pdf)"
+- [Ghost Box](https://ghostbox.greedbag.com/) (record label)
 
 ***
 
 *Week 11*
 
-**Poor Images: Post-Internet Aesthetics**
-
 11-10_Tues
 
-- Hito Steyerl, "In Defense of Poor Images"
-- Hito Steyerl, *Medium Hot* (chs. TBA)
+NO CLASS (Wednesday schedule)
 
 11-12_Thur
 
-- Hadi Afif, "[Cross-Sectioning the slop: Notes on Internet cinema](https://www.dazed.me/film-tv/cross-sectioning-the-slop-notes-on-internet-cinema)" (DAZED Middle East, 20 April 2026)
-- Anika Meier, "[The AI Slop of Pierre Huyghe](https://anikameierstatusupdate.substack.com/p/the-ai-slop-of-pierre-huyghe?__readwiseLocation=)" (Substack, 23 January 2026)
-- "[Will AI Slop and Deep Fakes Kill Culture?](https://youtu.be/3mAW5swMOME") (panel discussion with Caroline Busta)
+Workshop: Opencode Research Projects
 
 ***
 
 *Week 12*
 
-**Playable Worlds: Spatial Intelligence**
+**Poor Images: Post-Internet Aesthetics**
 
 11-17_Tues
 
-- Fei Fei Li, "[From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)" (World Labs, 10 November 2025)
-- "[Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)" (World Labs, 1 September 2026)
-- "[Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)" (World Labs, 12 November 2025)
+- Hito Steyerl, "[In Defense of the Poor Image](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image)"
+- Primavera de Filippi, "[Inside Strange Rules](https://www.100collectors.art/info/articles/inside-strange-rules?__readwiseLocation=)"
+- Peter Bauman, "[The Cerebral Samba: Protocol Art, Worldbuilding & Our Two Brains](https://www.lerandom.art/editorial/the-cerebral-samba-protocol-art-worldbuilding-our-two-brains)"
+- "[Will AI Slop and Deep Fakes Kill Culture?](https://youtu.be/3mAW5swMOME") (panel discussion with Caroline Busta)
 
 11-19_Thur
 
-- "[3D As Code](https://www.worldlabs.ai/blog/3d-as-code)" (World Labs, 3 March 2026)
-- "[A Functional Taxonomy of World Models](https://www.worldlabs.ai/blog/taxonomy-of-world-models)" (World Labs, 3 June 2026)
+Workshop: Opencode Research Projects
 
 ***
 
 *Week 13*
 
+**Playable Worlds: Spatial Intelligence**
+
 11-24_Tues
 
-Marble/Atlas workshop
+- Fei Fei Li, "[From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)" (World Labs, 10 November 2025)
+- "[Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)" (World Labs, 1 September 2026)
+- "[Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)" (World Labs, 12 November 2025)
+- "[3D As Code](https://www.worldlabs.ai/blog/3d-as-code)" (World Labs, 3 March 2026)
+- "[A Functional Taxonomy of World Models](https://www.worldlabs.ai/blog/taxonomy-of-world-models)" (World Labs, 3 June 2026)
 
 11-26_Thur: NO CLASS (Thanksgiving)
 

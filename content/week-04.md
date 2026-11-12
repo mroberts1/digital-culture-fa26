@@ -14,9 +14,7 @@ Bogna Konior, _The Dark Forest Theory of the Internet*:
 - "The Dark Forest Theory of Information" (ch. 1)
 - "The Dark Forest Theory of Intelligence" (ch. 2) (optional)
 
-Ann Elias et al, "[Introduction](pdf/camouflage-cultures-intro.pdf)
-
-" (_Camouflage Cultures: Beyond the Art of Disappearance_)
+Ann Elias et al, "[Introduction](pdf/camouflage-cultures-intro.pdf)" (_Camouflage Cultures: Beyond the Art of Disappearance_)
 
 Trevor Paglen, "[Invisible Images: Your Pictures Are Looking At You](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)" (_The New Inquiry_), 8 December 2016)
 
