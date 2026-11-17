@@ -15,7 +15,7 @@ Sibling vaults (`marlboro-digital-culture`, `lang-media-arts`, `fsu-interactive-
   public/       build output, gitignored, safe to delete
 ```
 
-Content: `index.md` is the syllabus, `week-NN.md` are topic pages, `keywords.md` feeds the word cloud, `bibliography.md` and `references.bib` hold sources.
+Content: `index.md` is the syllabus, `week-NN.md` are topic pages, `keywords.md` feeds the word cloud, `bibliography.md` and `references.bib` hold sources. `Digital Zeitgeist/` is a student-written wiki in Wikipedia format (bold term in the lead, `<sup>[n]</sup>` citations, See also, References, author name last); its pages slug to lowercase `digital-zeitgeist/...`. Source .docx files sit untracked in `doc/`.
 
 ## Running it
 
@@ -71,6 +71,8 @@ YouTube: `![](https://www.youtube.com/watch?v=ID)` becomes an iframe, scaled by 
 ## Configuration
 
 Prefer `.quartz/quartz.config.yaml` over patching vendored Quartz source. Anything YAML cannot express goes in `.quartz/quartz/styles/custom.scss`.
+
+The Digital Zeitgeist wiki has its own Wikipedia-style block in `custom.scss`, scoped to `body[data-slug^="digital-zeitgeist/"]`. Style changes for the wiki go there, not in the site-wide rules.
 
 Add a git plugin with `node ./quartz/bootstrap-cli.mjs plugin add github:<owner>/<repo>` from `.quartz/`, never npx. The CLI rewrites the config and drops its comments, so diff afterwards and restore them. `quartz-image-zoom` is installed this way and pinned in `.quartz/quartz.lock.json`.
 
