@@ -1,5 +1,6 @@
 ---
 title: "OJS embed test"
+unlisted: true
 ---
 
 Quarto-rendered Observable cell, embedded as an iframe.
