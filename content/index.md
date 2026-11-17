@@ -268,7 +268,7 @@ Workshop: Opencode Research Projects
 
 *Week 12*
 
-**Poor Images: Post-Internet Aesthetics**
+**Post-Internet Aesthetics**
 
 11-17_Tues
 
