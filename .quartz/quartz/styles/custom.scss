@@ -458,6 +458,138 @@ pre {
   --callout-icon: var(--callout-icon-tip);
 }
 
+// The Digital Zeitgeist main page has its own article list, so drop the cards.
+body[data-slug="digital-zeitgeist/index"] .page-listing {
+  display: none;
+}
+
+// Digital Zeitgeist wiki: Wikipedia-style pages, scoped to the folder so the
+// rest of the site keeps the Swiss look. Serif title and section headings with
+// a rule under each, sans body, blue links, small citations and references.
+// Entry sections are h3 in the markdown, styled here as Wikipedia's h2.
+body[data-slug^="digital-zeitgeist/"] {
+  --wiki-serif: "Linux Libertine", "Georgia", "Times", serif;
+  --wiki-sans: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  --wiki-link: #36c;
+  --wiki-rule: #a2a9b1;
+  --wiki-box: #f8f9fa;
+  --wiki-target: #eaf3ff;
+
+  font-family: var(--wiki-sans);
+
+  // Text runs the full column, as on Wikipedia, so it meets the heading rules.
+  article > .markdown-preview-view > p,
+  article > .markdown-preview-view > ul,
+  article > .markdown-preview-view > ol {
+    max-width: none;
+  }
+
+  .page-header h1.article-title,
+  article h1,
+  article h3 {
+    font-family: var(--wiki-serif);
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 1.3;
+    border-bottom: 1px solid var(--wiki-rule);
+  }
+
+  .page-header h1.article-title {
+    font-size: 1.8rem;
+    padding-bottom: 0.15em;
+    margin-bottom: 0.25rem;
+  }
+
+  article h3 {
+    font-size: 1.5rem;
+    margin-top: 1.5em;
+    margin-bottom: 0.4em;
+    padding-bottom: 0.1em;
+  }
+
+  // Hatnote: an all-italic first paragraph, as in the two Looksmaxxing entries.
+  article > .markdown-preview-view > p:first-child:has(> em:only-child) {
+    padding-left: 1.6em;
+    color: var(--darkgray);
+  }
+
+  article sup {
+    font-size: 0.75em;
+    line-height: 1;
+
+    .external-icon {
+      display: none;
+    }
+  }
+
+  article h3#references ~ ul,
+  article h3#references ~ ol {
+    font-size: 0.9em;
+  }
+
+  // Citation round trip: a citation jumps to its reference, the ^ (or a b c)
+  // jumps back, and whichever end you land on is highlighted.
+  article li:has([id^="cite-note-"]:target),
+  article sup:has(> a[id^="cite-ref-"]:target) {
+    background-color: var(--wiki-target);
+  }
+
+  article a.cite-back {
+    font-weight: 700;
+  }
+
+  .right.sidebar .toc {
+    border: 1px solid var(--wiki-rule);
+    background-color: var(--wiki-box);
+    padding: 0.5rem 0.9rem;
+
+    h3 {
+      font-family: var(--wiki-sans);
+      font-weight: 700;
+    }
+
+    // Quartz fades entries out of view; Wikipedia shows them all as links.
+    .toc-content a {
+      color: var(--wiki-link);
+      opacity: 1;
+
+      &.in-view {
+        color: var(--dark);
+      }
+    }
+  }
+
+  @media screen {
+    article a:not([role="anchor"]),
+    article a.internal:not([role="anchor"]) {
+      color: var(--wiki-link);
+      background-image: none;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--wiki-link);
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// Tagline under the title on entries, not on the wiki's main page.
+body[data-slug^="digital-zeitgeist/"]:not([data-slug="digital-zeitgeist/index"])
+  .page-header
+  .content-meta::before {
+  content: "From Digital Zeitgeist, the VM303 wiki";
+  display: block;
+  font-size: 0.875rem;
+}
+
+:root[saved-theme="dark"] body[data-slug^="digital-zeitgeist/"] {
+  --wiki-link: #88a3e8;
+  --wiki-rule: #54595d;
+  --wiki-box: #1c1917;
+  --wiki-target: #1f2a44;
+}
+
 // Folder/tag listings render as a card grid instead of a plain list.
 .page-listing {
   ul.section-ul {
