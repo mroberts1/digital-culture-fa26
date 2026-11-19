@@ -6,6 +6,7 @@ A small glossary of terms from contemporary internet culture, written collective
 
 - [[Brain rot]]: the sense that repetitive short-form media erodes focus, and the genre of content itself
 - [[Chopped|Chopped (slang)]]: slang for unattractive, and its derivative "choppelganger"
+- [[Clanker]]: slang pejorative for robots and AI, from *Star Wars* to anti-AI comment sections
 - [[Looksmaxxing 1|Looksmaxxing (1)]]: maximizing physical attractiveness, from incel forums to mainstream slang
 - [[Looksmaxxing 2|Looksmaxxing (2)]]: research on rating systems and peer critique in looksmaxxing communities
 - [[Mogging]]: out-classing another person through comparison of appearance or status
