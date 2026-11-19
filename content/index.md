@@ -85,7 +85,7 @@ The weekly posting schedule runs for one week from Tuesday to the following Tues
 
 Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.). Due week after Thanksgiving
 
-**Open Education Resources (OER)/OpenCode Research Assignment** (25%)
+**Open Models Research Assignment** (20%)
 
 Further details will be provided. 1,250-1,500 words. Due last week of classes.
 
@@ -280,35 +280,36 @@ Workshop: Opencode Research Projects
 
 11-19_Thur
 
-Workshop: Opencode Research Projects
+Workshop: Open Models Research Projects
 
 ***
 
 *Week 13*
 
-**Playable Worlds: Spatial Intelligence**
-
 11-24_Tues
 
-- Fei Fei Li, "[From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)" (World Labs, 10 November 2025)
-- "[Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)" (World Labs, 1 September 2026)
-- "[Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)" (World Labs, 12 November 2025)
-- "[3D As Code](https://www.worldlabs.ai/blog/3d-as-code)" (World Labs, 3 March 2026)
-- "[A Functional Taxonomy of World Models](https://www.worldlabs.ai/blog/taxonomy-of-world-models)" (World Labs, 3 June 2026)
+TBA
 
-11-26_Thur: NO CLASS (Thanksgiving)
+11-26_Thur
+
+NO CLASS (Thanksgiving)
 
 ***
 
 *Week 14*
 
+**Playable Worlds: Spatial Intelligence**
+
 12-01_Tues
 
-Presentations: OER Resarch Projects
+- Fei Fei Li, "[From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)" (World Labs, 10 November 2025)
+- "[Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)" (World Labs, 1 September 2026)
 
 12-03_Thur
 
-Presentations: OER Resarch Projects
+- "[Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)" (World Labs, 12 November 2025)
+- "[3D As Code](https://www.worldlabs.ai/blog/3d-as-code)" (World Labs, 3 March 2026)
+- "[A Functional Taxonomy of World Models](https://www.worldlabs.ai/blog/taxonomy-of-world-models)" (World Labs, 3 June 2026)
 
 ***
 
@@ -316,11 +317,13 @@ Presentations: OER Resarch Projects
 
 12-08_Tues
 
-Presentations: Creative Projects
+Generative Art Projects
+
+**Deadline: Generative Art Project**
 
 12-10_Thur
 
-Presentations: Creative Projects
+Generative Art Projects
 
 ***
 
@@ -328,11 +331,15 @@ Presentations: Creative Projects
 
 12-15_Tues 
 
+Presentations: Open Models Research Projects
+
+**Deadline: Open Models Research Project**
+
 Conclusion
 
 12-17_Thur
 
-
+Presentations: Open Models Research Projects
 
 **Last day of classes**
 
