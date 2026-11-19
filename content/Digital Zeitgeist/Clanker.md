@@ -33,10 +33,10 @@ The modern usage of "clanker" reflects a broader societal tension regarding the 
 
 ### References
 
-1. Lucasfilm. "[Battle Droids](https://www.starwars.com/)." StarWars.com. Retrieved November 2026.
+1. Lucasfilm. "[B1-Series Battle Droid](https://www.starwars.com/databank/b1-series-battle-droid)." StarWars.com.
 2. Respawn Entertainment. *[Titanfall 2 Game Manual](https://www.ea.com/games/titanfall/titanfall-2)*. Electronic Arts, 2016.
-3. "[The Rise of AI Slang: Why Everyone is Calling Bots 'Clankers'](https://www.wired.com/)." *Wired*, 2025.
-4. "Digital Media and Technophobia." *Journal of Internet Culture*, Vol. 12, 2026.
+3. Osiceanu, M. (2015). "[Psychological Implications of Modern Technologies: 'Technofobia' versus 'Technophilia'](https://www.sciencedirect.com/science/article/pii/S1877042815036396)." *Procedia - Social and Behavioral Sciences*.
+4. Star Wars Fandom. "[Clanker](https://starwars.fandom.com/wiki/Clanker)." Wookieepedia.
 
 ---
 
