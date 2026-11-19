@@ -16,7 +16,8 @@ institution: Emerson College
 > [Dr. Martin Roberts](http://mroberts1.github.io/)\
 > Office: 916D\
 > Hours: Tues 16:00-17:00\
-> <span class="web-only">[PDF syllabus](pdf/VM303-01_Roberts_Fall2026.pdf)</span><span class="canvas-only">[Web syllabus](https://mroberts1.github.io/digital-culture-fa26)</span>\
+> <span class="web-only">[PDF syllabus](pdf/VM303-01_Roberts_Fall2026.pdf)
+> </span><span class="canvas-only">[Web syllabus](https://mroberts1.github.io/digital-culture-fa26)</span>\
 > [YouTube playlist](https://www.youtube.com/playlist?list=PLVFq_7OQlr58)\
 > [<i class="fa-solid fa-envelope" role="img" aria-label="Email"></i>](mailto:martin_roberts@emerson.edu) \| [<i class="fa-brands fa-mastodon" role="img" aria-label="Mastodon"></i>](https://merveilles.town/@dokoissho) \| [<i class="fa-brands fa-github" role="img" aria-label="GitHub"></i>](https://github.com/mroberts1/) \| [<i class="fa-brands fa-twitter" role="img" aria-label="Twitter"></i>](https://twitter.com/mroberts_vma)
 
