@@ -4,7 +4,9 @@ instructor: Martin Roberts
 institution: Emerson College
 ---
 
-[![[friend-future.png]]](https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html)
+[![](img/anduril-train-graffiti.webp)]([https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html](https://employerbranding.news/resources/dont-work-here-the-employer-brand-that-dares-you-to-look-twice/))
+
+<small>Anduril "Don't Work Here" advertising campaign, Boston T, May 2025</small>
 
 > [!custom]+ VM303-01
 > [School of Film, Television, & Media Arts](https://emerson.edu/schools/school-of-film-television-and-media-arts/)\
@@ -83,7 +85,7 @@ The weekly posting schedule runs for one week from Tuesday to the following Tues
 
 **Generative Art** (20%)
 
-Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.). Due week after Thanksgiving
+Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.). Due Tuesday 7 December.
 
 **Open Models Research Assignment** (20%)
 
