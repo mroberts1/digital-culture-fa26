@@ -85,7 +85,7 @@ The weekly posting schedule runs for one week from Tuesday to the following Tues
 
 **Generative Art** (20%)
 
-Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.). Due Tuesday 7 December.
+Using one of the generative art platforms focused on in the course, submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.). Due Tuesday 8 December.
 
 **Open Models Research Assignment** (20%)
 
