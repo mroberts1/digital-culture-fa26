@@ -4,7 +4,7 @@ instructor: Martin Roberts
 institution: Emerson College
 ---
 
-[![](img/anduril-train-graffiti.webp)]([https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html](https://employerbranding.news/resources/dont-work-here-the-employer-brand-that-dares-you-to-look-twice/))
+[![](img/anduril-train-graffiti.webp)](https://employerbranding.news/resources/dont-work-here-the-employer-brand-that-dares-you-to-look-twice/)
 
 <small>Anduril "Don't Work Here" advertising campaign, Boston T, May 2025</small>
 
